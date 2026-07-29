@@ -17,7 +17,7 @@ andom module for generating race logic.
 
 ## Installation
 1. Clone the repository:
-   `ash
+   ````bash
    git clone https://github.com/MoayadAlshehry/turtle-racing.git
    cd turtle-racing
    `
@@ -25,7 +25,7 @@ andom module for generating race logic.
 
 ## Usage
 Run the script to open the betting window and start the race:
-`ash
+````bash
 python main.py
 `
 
