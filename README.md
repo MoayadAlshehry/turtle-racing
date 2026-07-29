@@ -18,7 +18,7 @@ andom module for generating race logic.
 ## Installation
 1. Clone the repository:
    `ash
-   git clone https://github.com/yourusername/turtle-racing.git
+   git clone https://github.com/MoayadAlshehry/turtle-racing.git
    cd turtle-racing
    `
 2. No external dependencies are required.
