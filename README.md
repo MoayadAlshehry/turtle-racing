@@ -15,8 +15,8 @@ Interactive betting and race simulator using Turtle graphics.
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/MoayadAlshehry/turtle-racing.git
-   cd turtle-racing
+git clone https://github.com/MoayadAlshehry/turtle-racing.git
+cd turtle-racing
 ```
 
 ## Usage
